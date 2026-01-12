@@ -1,0 +1,2 @@
+# Student-Management-Database-SQL-Project
+Student Management Database SQL Project is an internship-based project focused on designing &amp; analyzing a relational database for managing student information. The objective is to demonstrate practical SQL skills such as database design, data insertion, filtering, aggregation, &amp; analytical querying used in real-world educational management systems.
